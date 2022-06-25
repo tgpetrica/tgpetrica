@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tgpetrica
 - 👀 I’m interested in aviation, photography, programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning QGIS
 
 <!---
 tgpetrica/tgpetrica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
