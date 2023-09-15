@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <!-- 
-<img align="left" alt="Grigo's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GrigoAleex&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="Grigo's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tgpetrica&show_icons=true&hide_border=true" /> -->
 
 [instagram]: https://www.instagram.com/tgpetrica
