@@ -1,11 +1,7 @@
-# Hi there, I'm tgpetrica! 👋
-
----
-
 ##  About Me
 
 🎓 I'm currently a student in Economic Cybernetics.  
-🔎 I love exploring the intersection of economics, data science, and technology.  
+🔎 I love exploring the intersection of economics, data science and technology.  
 ✈️ Enthusiast for aviation-related projects and geospatial analysis.  
 🤝 Active in voluntary work.
 
